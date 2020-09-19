@@ -44,7 +44,8 @@ button {
     }   
 </style>   
 </head>    
-<body>    
+<body>   
+<?php echo "hello"; ?> 
     <center> <h1> Chat App </h1> </center> <div>
     <form action="login.php" method="post">  
         <div class="container">   
