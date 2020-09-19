@@ -45,7 +45,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Chat App </h1> </center>   
+    <center> <h1> Chat App </h1> </center>   <div>
     <form action="login.php" method="post">  
         <div class="container">   
             <label>Username : </label>   
@@ -56,6 +56,7 @@ button {
             <input type="checkbox" checked="checked"> Remember me     
            <p> Forgot <a href="#"> password? </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>    <a href="signup.php">       Signup</a></span> </p>  
         </div>   
-    </form>     
+    </form>
+    </div>     
 </body>     
 </html>  
