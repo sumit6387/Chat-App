@@ -45,7 +45,8 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Chat App </h1> </center>   <div>
+    <center> <h1> Chat App </h1> </center>
+    <div>
     <form action="SignupPro.php" method="post">  
         <div class="container">   
             <label>Username : </label>   
@@ -56,6 +57,7 @@ button {
             <center><a href="index.php">Login</a> </center>  
         </div>   
     </form> 
-    </div>    
+    </div> 
+
 </body>     
 </html>  

@@ -45,7 +45,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Chat App </h1> </center>   <div>
+    <center> <h1> Chat App </h1> </center> <div>
     <form action="login.php" method="post">  
         <div class="container">   
             <label>Username : </label>   
@@ -57,6 +57,6 @@ button {
            <p> Forgot <a href="#"> password? </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>    <a href="signup.php">       Signup</a></span> </p>  
         </div>   
     </form>
-    </div>     
+</div>     
 </body>     
 </html>  
